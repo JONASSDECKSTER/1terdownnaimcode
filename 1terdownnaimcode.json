@@ -25,7 +25,7 @@
     "settings": {
         "showLog": true,
         "target_game_package": "com.teardown.modMELONPLAYGROUNDnaim",
-        "onesignal_app_id": "34a9f669-0633-41eb-8927-1b802a8dd0a2",
+        "onesignal_app_id": "2cd47f89-a433-4001-b42a-2b26da9b4e06",
 		"allow_download_on_error": false,
         "review": {
 			"show": true,
