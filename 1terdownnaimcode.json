@@ -1,10 +1,10 @@
 {
     "ads": {
-		"showAds": false,
-		"bannerAd": "admob",
-		"interstitialAd": "admob",
-		"nativeAd": "admob",
-        "rewardAd": "admob",
+		"showAds": true,
+		"bannerAd": "max",
+		"interstitialAd": "max",
+		"nativeAd": "max",
+        "rewardAd": "max",
         "admobBanner": "ca-app-pub-2197990263807711/7796928458",
         "admobInterstitial": "ca-app-pub-2197990263807711/7179100915",
         "admobNative": "ca-app-pub-2197990263807711/5291304175",
@@ -14,10 +14,10 @@
         "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "fbReward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "ironsourceApi": "190d49a4d",
-        "maxBanner": "6db1491f2e21970c",
-        "maxInterstitial": "812b82d9e0c7cb7f",
-        "maxNative": "64ea2f2ef41edb34",
-        "maxReward": "64ea2f2ef41edb34",
+        "maxBanner": "f37f00909b42a2ab",
+        "maxInterstitial": "f4b9f806a7d030ba",
+        "maxNative": "c22666b32d2beb0d",
+        "maxReward": "0f9a2dc2cef2090e",
         "interstitialClickNumActivities": 1,
         "interstitialClickNumList": 3
         
